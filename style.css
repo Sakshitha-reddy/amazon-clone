@@ -102,11 +102,12 @@ span{
     display:flex;
     color:white;
     align-items:center;
-    justify-content:space-evenly;
+    justify-content:flex-start;
 
 }
 .panel-ops p{
     display:inline;
+    margin-left:15px;
 }
 .panel-ops{
     width:70%;
